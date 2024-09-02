@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.css";
 import logo from './logo.png';
 import './App.css';
 
